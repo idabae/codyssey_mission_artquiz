@@ -70,4 +70,5 @@ python main.py
 ### 3) 개발 환경
 ![개발환경](./art_quiz_images/env.png)
 
-ㄴ
+###  원격 저장소 URL
+* **GitHub Repository:** https://github.com/idabae/codyssey_mission_artquiz
